@@ -11,4 +11,4 @@ preco = latas * 80
 print("Quantidade de latas a serem compradas:", latas)
 print(f"Preço total a ser pago: R$ {preco:.2f}")
 
-#edvwfuyeiwfdysgvhwbjieuygfbhd
+#edvwfuyeiwfdysgv
